@@ -1,0 +1,40 @@
+{
+    "user": {
+        "name": "Admin",
+        "client_code": "123456",
+        "password": "pass"
+    },
+    "properties": [
+        {
+            "id": "f24ef46e-e96b-4201-b0f3-aebdfb10e392",
+            "address": "Calle Borja, 4",
+            "country": "Espa\u00f1a",
+            "city": "Almer\u00eda",
+            "zip_code": "04002",
+            "cadastral_ref": "",
+            "mortgage_monthly": 385.0,
+            "mortgage_contract_path": "",
+            "utilities_included": false,
+            "electricity_contract_path": "/tmp/test.pdf",
+            "water_contract_path": "",
+            "tenant": {
+                "name": "Juan Manuel Mart\u00edn Manzano",
+                "rent": 650.0,
+                "start_date": "2025-12-20",
+                "payments": {},
+                "lease_contract_path": "",
+                "deposit_contract_path": ""
+            }
+        }
+    ],
+    "expenses": [
+        {
+            "id": "b27922c6-084a-43b6-bf82-49d0956e00d8",
+            "amount": 100.0,
+            "category": "REPAIR",
+            "description": "Reparaci\u00f3n Grifo",
+            "date": "2025-12-20",
+            "property_id": "f24ef46e-e96b-4201-b0f3-aebdfb10e392"
+        }
+    ]
+}
