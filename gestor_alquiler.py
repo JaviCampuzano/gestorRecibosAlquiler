@@ -11,7 +11,7 @@ ctk.set_default_color_theme("dark-blue")
 # --- THEME COLORS ---
 COLORS = {
     "bg_main": "#111827",      # Very dark blue/black
-    "bg_sidebar": "#1f2937",   # Dark gray/blue
+    "bg_sidebar": "#1f2937",   # Dark gray/blue just a comment
     "bg_card": "#1f2937",      # Same as sidebar for cards
     "bg_card_hover": "#374151",
     "text_main": "#f9fafb",    # White-ish
